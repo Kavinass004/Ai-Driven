@@ -1,4 +1,6 @@
-# 📰 AI News Speaker-Diarization and Transcription App
+# 📰 AI-Driven Tamil News Automation: The Future of Digital Journalism
+
+
 
 This project allows you to upload **audio/video news content**, automatically transcribe it with **speaker diarization**, and download a clean, speaker-tagged transcript. It supports **code-mixed Tamil and English**, and uses the **Groq API** for lightning-fast LLM-based transcription and summarization.
 
